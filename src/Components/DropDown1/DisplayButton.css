@@ -1,0 +1,8 @@
+.display-button {
+  margin: 10px;
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  background-color: white;
+  border-radius: 3px;
+}
